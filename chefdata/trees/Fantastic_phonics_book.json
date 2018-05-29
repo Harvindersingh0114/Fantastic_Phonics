@@ -1,0 +1,1192 @@
+{
+  "title": "Fantastic Phonic",
+  "description": "This channel is created for Book_1 Content of Fantastic Phonics.",
+  "source_domain": "http://dev.worldpossible.org",
+  "source_id": "Fantastic_phonic_3",
+  "language": "en",
+  "thumbnail": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/img/product_1a.jpg",
+  "children": [
+    {
+      "kind": "topic",
+      "source_id": "fp1111",
+      "title": "Series-1",
+      "description": "This folder contains Series 1 books of fantastic phonics.",
+      "author": null,
+      "language": "en",
+      "license": null,
+      "thumbnail": null,
+      "children": [
+        {
+          "kind": "topic",
+          "source_id": "fp21",
+          "title": "Book-1",
+          "description": "This folder contains book-1 of series 1 from fantastic phonics",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/img/thumbs/book01cover.jpg",
+	  "children": [
+	    {
+          "kind": "topic",
+          "source_id": "fp31",
+          "title": "Open PDF and Print PDFs",
+          "description": "This folder contains book-1 pdfs of series 1 from fantastic phonics",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+	    {
+              "kind": "document",
+              "source_id": "fp41",
+              "title": "Print book",
+              "author": "First Last (author's name)",
+              "description": "For everyone",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/printable%20books/fantasticphonics_book_01.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+	     {
+              "kind": "document",
+              "source_id": "fp51",
+              "title": "Teacher guide",
+              "author": "First Last (author's name)",
+              "description": "For teachers guidance",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/teaching%20guide/fantastic%20phonics%20teaching%20guide%2001.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp61",
+              "title": "Hand writing book",
+              "author": "First Last (author's name)",
+              "description": "To improve handwriting.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic-phonics-writing-practise-book01.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp71",
+              "title": "Hand writing-Large letters",
+              "author": "First Last (author's name)",
+              "description": "Conatins large letters hand writing improvising methods.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic%20phonics%20a-z%20large%20handwriting.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp81",
+              "title": "Hand writing-Small letters",
+              "author": "First Last (author's name)",
+              "description": "Conatins small letters hand writing improvising methods.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic%20phonics%20a-z%20small%20handwriting.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp101",
+              "title": "Word Search",
+              "author": "First Last (author's name)",
+              "description": "Conatins word search game.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/puzzle/book01_puzzle.pdf",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+	{
+          "kind": "topic",
+          "source_id": "fp91",
+          "title": "Story Video",
+          "description": "Storiy about cat and mat",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp115",
+              "title": "The cat on the mat",
+              "author": "First Last (author's name)",
+              "description": "This video has the cat on the mat animated video.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/video/animation-01.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+	{
+          "kind": "topic",
+          "source_id": "fp121",
+          "title": "Phonic Videos",
+          "description": "Phonic videos to explain more.",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp131",
+              "title": "English letters",
+              "author": "First Last (author's name)",
+              "description": "Learn the basic letters.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/fp-training-lowercase-alphabet.mp4",
+                  "language": "en"
+                }
+              ]
+            },{
+              "kind": "video",
+              "source_id": "fp141",
+              "title": "Read the story",
+              "author": "First Last (author's name)",
+              "description": "Teachers read the book.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/video/book-01-training.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+	{
+          "kind": "topic",
+          "source_id": "fp151",
+          "title": "Read Along Videos",
+          "description": "To teach key words",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp161",
+              "title": "Important Words",
+              "author": "First Last (author's name)",
+              "description": "Learn key words.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/dolch-memory-words-preprimer-assessment-hd.mp4",
+                  "language": "en"
+                }
+              ]
+            },{
+              "kind": "video",
+              "source_id": "fp171",
+              "title": "Speed Test",
+              "author": "First Last (author's name)",
+              "description": "Learn the key words and check your speed.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/essential-words-1-50-speed-test.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        }
+       ]
+     },{
+          "kind": "topic",
+          "source_id": "fp191",
+          "title": "Book-2",
+          "description": "This folder contains book-2 of series 1 from fantastic phonics",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/img/thumbs/book02cover.jpg",
+	  "children": [
+	     {
+          "kind": "topic",
+          "source_id": "fp312",
+          "title": "Open PDF and Print PDFs",
+          "description": "This folder contains book-2 pdfs of series 1 from fantastic phonics",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+	       {
+              "kind": "document",
+              "source_id": "fp2012",
+              "title": "Print Book-2",
+              "author": "First Last (author's name)",
+              "description": "Detailed book 2.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/printable%20books/fantasticphonics_book_02.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+	     {
+              "kind": "document",
+              "source_id": "fp512",
+              "title": "Teacher guide",
+              "author": "First Last (author's name)",
+              "description": "For teachers guidance",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/teaching%20guide/fantastic%20phonics%20teaching%20guide%2002.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp612",
+              "title": "Hand writing book",
+              "author": "First Last (author's name)",
+              "description": "To improve handwriting.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic-phonics-writing-practise-book02.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp712",
+              "title": "Hand writing-Large letters",
+              "author": "First Last (author's name)",
+              "description": "Conatins large letters hand writing improvising methods.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic%20phonics%20a-z%20large%20handwriting.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp812",
+              "title": "Hand writing-Small letters",
+              "author": "First Last (author's name)",
+              "description": "Conatins small letters hand writing improvising methods.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic%20phonics%20a-z%20small%20handwriting.pdf",
+                  "language": "en"
+                }
+              ]
+            },{
+              "kind": "document",
+              "source_id": "fp8123",
+              "title": "Word Search",
+              "author": "First Last (author's name)",
+              "description": "Conatins word search game.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/puzzle/book02_puzzle.pdf",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },{
+          "kind": "topic",
+          "source_id": "fp9111",
+          "title": "Story Video",
+          "description": "Storiy about fun animation.",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp11512",
+              "title": "Dan and a Van",
+              "author": "First Last (author's name)",
+              "description": "This video has Dan and a Van animated video.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/video/animation-02.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },{
+          "kind": "topic",
+          "source_id": "fp12121",
+          "title": "Phonic Videos",
+          "description": "Phonic videos to explain more.",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp13121",
+              "title": "English letters",
+              "author": "First Last (author's name)",
+              "description": "Learn the basic letters.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/fp-training-lowercase-alphabet.mp4",
+                  "language": "en"
+                }
+              ]
+            },{
+              "kind": "video",
+              "source_id": "fp14121",
+              "title": "Read the story",
+              "author": "First Last (author's name)",
+              "description": "Teachers read the book.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/video/book-02-training.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+	{
+          "kind": "topic",
+          "source_id": "fp15121",
+          "title": "Read Along Videos",
+          "description": "To teach key words",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp16121",
+              "title": "Important Words",
+              "author": "First Last (author's name)",
+              "description": "Learn key words.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/dolch-memory-words-preprimer-assessment-hd.mp4",
+                  "language": "en"
+                }
+              ]
+            },{
+              "kind": "video",
+              "source_id": "fp17121",
+              "title": "Speed Test",
+              "author": "First Last (author's name)",
+              "description": "Learn the key words and check your speed.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/essential-words-1-50-speed-test.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },{
+          "kind": "topic",
+          "source_id": "fp19131",
+          "title": "Book-3",
+          "description": "This folder contains book-3 of series 1 from fantastic phonics",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/img/thumbs/book03cover.jpg",
+	  "children": [
+	     {
+          "kind": "topic",
+          "source_id": "fp31231",
+          "title": "Open PDF and Print PDFs",
+          "description": "This folder contains book-3 pdfs of series 1 from fantastic phonics",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+	       {
+              "kind": "document",
+              "source_id": "fp201231",
+              "title": "Print Book-3",
+              "author": "First Last (author's name)",
+              "description": "Detailed book 3.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/printable%20books/fantasticphonics_book_03.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+	     {
+              "kind": "document",
+              "source_id": "fp51231",
+              "title": "Teacher guide",
+              "author": "First Last (author's name)",
+              "description": "For teachers guidance",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/teaching%20guide/fantastic%20phonics%20teaching%20guide%2003.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp61231",
+              "title": "Hand writing book",
+              "author": "First Last (author's name)",
+              "description": "To improve handwriting.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic-phonics-writing-practise-book03.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp71231",
+              "title": "Hand writing-Large letters",
+              "author": "First Last (author's name)",
+              "description": "Conatins large letters hand writing improvising methods.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic%20phonics%20a-z%20large%20handwriting.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp81231",
+              "title": "Hand writing-Small letters",
+              "author": "First Last (author's name)",
+              "description": "Conatins small letters hand writing improvising methods.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic%20phonics%20a-z%20small%20handwriting.pdf",
+                  "language": "en"
+                }
+              ]
+            },{
+              "kind": "document",
+              "source_id": "fp812331",
+              "title": "Word Search",
+              "author": "First Last (author's name)",
+              "description": "Conatins word search game.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/puzzle/book03_puzzle.pdf",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },{
+          "kind": "topic",
+          "source_id": "fp911131",
+          "title": "Story Video",
+          "description": "Storiy about fun animation.",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp1151231",
+              "title": "The Lad",
+              "author": "First Last (author's name)",
+              "description": "This video has the Lad animated video.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/video/animation-03.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },{
+          "kind": "topic",
+          "source_id": "fp1212131",
+          "title": "Phonic Videos",
+          "description": "Phonic videos to explain more.",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp1312131",
+              "title": "English letters",
+              "author": "First Last (author's name)",
+              "description": "Learn the basic letters.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/dolch-memory-words-preprimer-assessment-hd.mp4",
+                  "language": "en"
+                }
+              ]
+            },{
+              "kind": "video",
+              "source_id": "fp1412131",
+              "title": "Read the story",
+              "author": "First Last (author's name)",
+              "description": "Teachers read the book.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/video/book-03-training.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+	{
+          "kind": "topic",
+          "source_id": "fp1512131",
+          "title": "Read Along Videos",
+          "description": "To teach key words",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp1612131",
+              "title": "Important Words",
+              "author": "First Last (author's name)",
+              "description": "Learn key words.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/dolch-memory-words-preprimer-assessment-hd.mp4",
+                  "language": "en"
+                }
+              ]
+            },{
+              "kind": "video",
+              "source_id": "fp1712131",
+              "title": "Speed Test",
+              "author": "First Last (author's name)",
+              "description": "Learn the key words and check your speed.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/essential-words-1-50-speed-test.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },{
+          "kind": "topic",
+          "source_id": "fp1913141",
+          "title": "Book-4",
+          "description": "This folder contains book-4 of series 1 from fantastic phonics",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/img/thumbs/book04cover.jpg",
+	  "children": [
+	     {
+          "kind": "topic",
+          "source_id": "fp3123141",
+          "title": "Open PDF and Print PDFs",
+          "description": "This folder contains book-4 pdfs of series 1 from fantastic phonics",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+	       {
+              "kind": "document",
+              "source_id": "fp20123141",
+              "title": "Print Book-4",
+              "author": "First Last (author's name)",
+              "description": "Detailed book 4.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/printable%20books/fantasticphonics_book_04.pdf",
+                  "language": "en"
+                }
+              ]
+            },
+	     {
+              "kind": "document",
+              "source_id": "fp5123141",
+              "title": "Teacher guide",
+              "author": "First Last (author's name)",
+              "description": "For teachers guidance",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/teaching%20guide/fantastic%20phonics%20teaching%20guide%2004.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp6123141",
+              "title": "Hand writing book",
+              "author": "First Last (author's name)",
+              "description": "To improve handwriting.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic-phonics-writing-practise-book04.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp7123141",
+              "title": "Hand writing-Large letters",
+              "author": "First Last (author's name)",
+              "description": "Conatins large letters hand writing improvising methods.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic%20phonics%20a-z%20large%20handwriting.pdf",
+                  "language": "en"
+                }
+              ]
+            }, {
+              "kind": "document",
+              "source_id": "fp8123141",
+              "title": "Hand writing-Small letters",
+              "author": "First Last (author's name)",
+              "description": "Conatins small letters hand writing improvising methods.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/writing%20books/fantastic%20phonics%20a-z%20small%20handwriting.pdf",
+                  "language": "en"
+                }
+              ]
+            },{
+              "kind": "document",
+              "source_id": "fp81233141",
+              "title": "Word Search",
+              "author": "First Last (author's name)",
+              "description": "Conatins word search game.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "document",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/puzzle/book04_puzzle.pdf",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },{
+          "kind": "topic",
+          "source_id": "fp91113141",
+          "title": "Story Video",
+          "description": "Storiy about fun animation.",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp115123141",
+              "title": "Dan and his Cap",
+              "author": "First Last (author's name)",
+              "description": "This video has Dan and his Cap animated video.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/video/animation-04.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },{
+          "kind": "topic",
+          "source_id": "fp121213141",
+          "title": "Phonic Videos",
+          "description": "Phonic videos to explain more.",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp131213141",
+              "title": "English letters",
+              "author": "First Last (author's name)",
+              "description": "Learn the basic letters.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/fp-training-lowercase-alphabet.mp4",
+                  "language": "en"
+                }
+              ]
+            },{
+              "kind": "video",
+              "source_id": "fp141213141",
+              "title": "Read the story",
+              "author": "First Last (author's name)",
+              "description": "Teachers read the book.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/video/book-04-training.mp4",
+                  "language": "en"
+                }
+              ]
+            }
+          ]
+        },
+	{
+          "kind": "topic",
+          "source_id": "fp151213141",
+          "title": "Read Along Videos",
+          "description": "To teach key words",
+          "author": null,
+          "language": "en",
+          "license": null,
+          "thumbnail": null,
+          "children": [
+            {
+              "kind": "video",
+              "source_id": "fp161213141",
+              "title": "Important Words",
+              "author": "First Last (author's name)",
+              "description": "Learn key words.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/dolch-memory-words-preprimer-assessment-hd.mp4",
+                  "language": "en"
+                }
+              ]
+            },{
+              "kind": "video",
+              "source_id": "fp171213141",
+              "title": "Speed Test",
+              "author": "First Last (author's name)",
+              "description": "Learn the key words and check your speed.",
+              "language": "en",
+              "license": {
+                "license_id": "CC BY",
+                "description": null,
+                "copyright_holder": "Fantastic Phonic"
+              },
+              "derive_thumbnail": true,
+              "thumbnail": null,
+              "files": [
+                {
+                  "file_type": "video",
+                  "path": "http://dev.worldpossible.org/mods/en-fantasticphonics-child/content/books/dolch-videos/essential-words-1-50-speed-test.mp4",
+                  "language": "en"
+                }
+              ]
+            },{
+                  "kind": "html5",
+                  "source_id": "CrosswordSearch212",
+                  "language": "en",
+                  "title": "Fantastic_Phonic_2",
+                  "description": "",
+                  "license": {
+                    "license_id": "CC BY",
+                    "copyright_holder": "Fantastic Phonic",
+                    "description": null
+                  },
+                  "thumbnail": null,
+                  "files": [
+                    {
+                      "file_type": "html5",
+                      "path": "/home/mssadmin/Downloads/ricecooker-0.6.16/content/dev.zip",
+                      "language": "en"
+                    }
+                  ]
+                }
+          ]
+        }
+      ]
+    }
+    ]
+   }
+  ]
+}
